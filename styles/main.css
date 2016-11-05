@@ -50,7 +50,7 @@ aside {
   width: 50%;
 }
 
-@media (max-width: 375px){
+@media (max-width: 667px){
   body {
     margin: 0;
   }
