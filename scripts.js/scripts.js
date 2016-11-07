@@ -1,47 +1,15 @@
-function miamiNew () {
+function newPicture () {
 
   document.getElementById("miami") .src="images/guava.jpg";
-
+  document.getElementById("orlando") .src="images/orlandodessert.jpg";
+  document.getElementById("gainesville") .src="images/miapa.jpg";
+  document.getElementById("tallahassee") .src="images/luckygoat.jpg";
 }
 
-function miamiOld () {
+function oldPicture () {
 
 document.getElementById("miami") .src="images/miami.jpg";
-
-}
-
-function newPicture1 () {
-
-  document.getElementById("orlando") .src="images/orlandodessert.jpg";
-
-}
-
-function oldPicture1 () {
-
 document.getElementById("orlando") .src="images/orlando.jpg";
-
-}
-
-function newPicture2 () {
-
-  document.getElementById("gainesville") .src="images/miapa.jpg";
-
-}
-
-function oldPicture2 () {
-
 document.getElementById("gainesville") .src="images/gainesville.jpg";
-
-}
-
-function newPicture3 () {
-
-  document.getElementById("tallahassee") .src="tallahassee/luckygoat.jpg";
-
-}
-
-function oldPicture3 () {
-
 document.getElementById("tallahassee") .src="images/tallahassee.jpg";
-
 }

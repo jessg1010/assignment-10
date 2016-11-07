@@ -53,7 +53,6 @@ aside {
 @media (max-width: 375px){
   body {
     margin: 0;
-    background: none;
   }
   p.outline, aside, img, nav {
     width: 100%;
