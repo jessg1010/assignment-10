@@ -50,9 +50,10 @@ aside {
   width: 50%;
 }
 
-@media (max-width: 667px){
+@media (max-width: 375px){
   body {
     margin: 0;
+    background: none;
   }
   p.outline, aside, img, nav {
     width: 100%;
@@ -60,9 +61,5 @@ aside {
   }
 
   aside {
-    clear: both;
-  }
-
-  aside {
-    background: ##EBDDAE;
+    background: none;
   }
